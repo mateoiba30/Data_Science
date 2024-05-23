@@ -3,6 +3,6 @@
 Database analysis course with non-neural AI tools of regression (linear and non-linear), classification and more.
 With these projects I had my first approach to data analysis.
 
-[main proyect](./data-science-fundations-2/ProyectBiodiversityInNationalParks/)
-[good activities](./data-science-fundations-2/)
-[introductory activities](./data-science-fundations-1/)
+- [main proyect doc](./data%20science%20fundations%202/Proyect%20Biodiversity%20inNational%20Parks/)
+- [good activities](./data%20science%20fundations%202/)
+- [introductory activities](./data%20science%20fundations%201/)
