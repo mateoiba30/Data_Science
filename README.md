@@ -1,6 +1,6 @@
 # Data_Science
 
-Database analysis course with non-neural AI tools of regression (linear and non-linear), classification and more.
+My first introductory course in database analysis with non-neural AI tools of regression (linear and non-linear), classification and more.
 With these projects I had my first approach to data analysis.
 
 - [main proyect](./data%20science%20fundations%202/Proyect%20Biodiversity%20in%20National%20Parks/)
